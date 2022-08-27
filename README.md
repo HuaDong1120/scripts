@@ -7,3 +7,4 @@ feh
 nerd-fonts-jetbrains-mono
 thunar
 chls
+rofi
